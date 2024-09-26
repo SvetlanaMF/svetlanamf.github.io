@@ -1,10 +1,10 @@
-# svetlanamf.github.io
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Site Example</title>
+    Научно-производственная фирма "Магнетик Ферролаб"
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -75,3 +75,99 @@
     <script src="https://kit.fontawesome.com/6b497635d2.js" crossorigin="anonymous"></script>
 </body>
 </html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+}
+
+.header nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.header nav li a {
+    display: block;
+    padding: 10px;
+}
+
+.content {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+
+.hero {
+    text-align: center;
+    padding: 20px;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.hero p {
+    margin-top: 10px;
+}
+
+.features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.feature-item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.feature-item i {
+    font-size: 3rem;
+}
+
+.feature-item h3 {
+    margin: 0;
+}
+
+.feature-item p {
+    margin-top: 10px;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer p {
+    margin: 0;
+}
+
+.footer nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.footer nav li a {
+    color: white;
+    text-decoration: none;
+}
