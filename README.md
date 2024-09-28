@@ -1,5 +1,5 @@
-
+The background color is `#00FFFF` for light mode and `#10A5A5` for dark mode.
   **Повышение эффективности препаратов для лечения тромбоза**
 ## ООО "НПФ Магнетик Ферролаб"
 [Проект реализован с использованием средств Гранта, в рамках программы «Платформа университетского технологического предпринимательства», конкурс "Студенческий стартап" от Фонда содействия инновациям](https://fasie.ru/)
-[Логотип ФСИ](https://msp.nso.ru/sites/msp.nso.ru/wodby_files/files/news/2023/06/fond-sodejstviya-innovaciyam.jpg)
+-[Логотип ФСИ](https://msp.nso.ru/sites/msp.nso.ru/wodby_files/files/news/2023/06/fond-sodejstviya-innovaciyam.jpg)
